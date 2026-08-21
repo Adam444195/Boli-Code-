@@ -42,7 +42,7 @@ Vous pouvez utiliser Boli Code de différentes manières selon vos besoins :
 Idéal pour une utilisation rapide ou une installation directe dans CMD. Copiez et collez cette commande dans votre terminal :
 
 ```cmd
-powershell -ExecutionPolicy Bypass -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iwr -useb '[https://gist.githubusercontent.com/Adam444195/c17e54eecde8f0baaffd01c61661c13e/raw/install.ps1](https://gist.githubusercontent.com/Adam444195/c17e54eecde8f0baaffd01c61661c13e/raw/install.ps1)' | iex"
+powershell -ExecutionPolicy Bypass -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; iwr -useb 'https://gist.githubusercontent.com/Adam444195/c17e54eecde8f0baaffd01c61661c13e/raw/install.ps1' | iex"
 ```
 
 ##Désinstallé Boll Code
