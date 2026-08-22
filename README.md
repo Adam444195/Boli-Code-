@@ -2,8 +2,6 @@
 
 > **Boli Code** est un assistant IA tout-en-un puissant et ultra-léger accessible directement depuis votre terminal Windows (CMD). Générez du code, rédigez du texte et créez du contenu vidéo en quelques secondes, avec ou sans installation préalable ! 🚀
 
-[![Télécharger Boli.Code.exe](https://img.shields.io/badge/Télécharger-Boli.Code.exe-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Adam444195/Boli-Code/releases/download/v.0002/Boli.Code.exe)
-
 ---
 
 ## 🌟 Pourquoi Boli Code ?
@@ -31,13 +29,7 @@ Avant de démarrer, assurez-vous de disposer de **Python** sur votre système Wi
 
 Vous pouvez utiliser Boli Code de différentes manières selon vos besoins :
 
-### Option 1 : Télécharger l'Exécutable (`.exe`) 📦
-
-[![](https://img.shields.io/badge/⬇️_Télécharger_Boli.Code.exe-2ea44f?style=for-the-badge&logo=github)](https://github.com/Adam444195/Boli-Code/releases/download/v.0002/Boli.Code.exe)
-
----
-
-### Option 2 : Mode Direct / Installation via CMD ⚡
+Mode Direct / Installation via CMD ⚡
 
 Idéal pour une utilisation rapide ou une installation directe dans CMD. Copiez et collez cette commande dans votre terminal :
 
